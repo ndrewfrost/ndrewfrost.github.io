@@ -2,13 +2,13 @@
 
 ### Currently Learning
 
-- [] Shaders
-- [] Vulkan
-- [] Collision Detection
-- [] Mesh Shaders
-- [] Real Time Ray Tracing Vulkan
-- [] Mesh Animations
-- [] Render graphs
+- [ ] Shaders
+- [ ] Vulkan
+- [ ] Collision Detection
+- [ ] Mesh Shaders
+- [ ] Real Time Ray Tracing Vulkan
+- [ ] Mesh Animations
+- [ ] Render graphs
 
 ### Previous Projects
 
