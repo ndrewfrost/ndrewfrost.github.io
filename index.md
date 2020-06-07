@@ -1,11 +1,15 @@
-# Andrew Frost's Collection of Work, Notes and Future Resources
+## Andrew Frost's Collection of Work, Notes and Future Resources
 
-## Currently Learning
+### Currently Learning
 
 - GLSL
 - Vulkan
 
-## Current Books
+### Previous Projects
+
+- Real time fluid simulations - SPH, MPM, PBF, Hybridization of PBF and MPM
+
+### Current Books
 
 - [Foundations of Game Engine Development - Mathematics](https://foundationsofgameenginedev.com/)
 - [Foundations of Game Engine Development - Rendering](https://foundationsofgameenginedev.com/)
