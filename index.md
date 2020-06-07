@@ -1,14 +1,18 @@
 ## Collection of Work, Notes and Future Resources
 
-
-
 ### Currently Learning
 
-- [] GLSL
+- [] Shaders
 - [] Vulkan
+- [] Collision Detection
+- [] Mesh Shaders
+- [] Real Time Ray Tracing Vulkan
+- [] Mesh Animations
+- [] Render graphs
 
 ### Previous Projects
 
+- Path tracing ray tracing 
 - Real time fluid simulations - SPH, MPM, PBF, Hybridization of PBF and MPM
 
 ### Current Books
