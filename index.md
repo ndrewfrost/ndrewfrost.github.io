@@ -1,9 +1,11 @@
-## Andrew Frost's Collection of Work, Notes and Future Resources
+## Collection of Work, Notes and Future Resources
+
+
 
 ### Currently Learning
 
-- GLSL
-- Vulkan
+- [] GLSL
+- [] Vulkan
 
 ### Previous Projects
 
