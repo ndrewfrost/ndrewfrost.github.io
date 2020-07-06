@@ -2,7 +2,7 @@
 
 ### Analysis
 
-- [temporary](https://ndrewfrost.github.io/analysis/temp.md)
+- [Temporary](https://ndrewfrost.github.io/analysis/temp.md)
 
 ### Currently Learning
 
