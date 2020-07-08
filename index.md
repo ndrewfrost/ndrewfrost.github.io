@@ -18,6 +18,7 @@
 
 - [Vulkan Example](https://github.com/ndrewfrost/vulkan_2020)
 - [Path tracing ray tracer](https://github.com/ndrewfrost/RayTrace)
+- [Perlin Noise](https://github.com/ndrewfrost/NoiseGenerator/)
 - Real time fluid simulations - SPH, MPM, PBF, Hybridization of PBF and MPM
 
 ### Current Books
